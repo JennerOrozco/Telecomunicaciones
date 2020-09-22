@@ -128,7 +128,7 @@ class Login extends Component {
               <CCard className="p-4">
                 <CCardBody>
                   <CForm>
-                    <h1>EC - CASH MONEY</h1>
+                    <h1>TELECOMUNICACIONES S.A.</h1>
                     <p className="text-muted">Ingresa tus credenciales</p>
                     <CInputGroup className="mb-3">
                       <CInputGroupPrepend>
